@@ -1,7 +1,17 @@
-### Hi there 👋
 
-<!--
-**ectweitmann/ectweitmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <a href="https://github.com/ectweitmann/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ectweitmann&theme=chartreuse-dark&layout=compact" />
+</a>
+
+<a href="https://github.com/ectweitmann/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ectweitmann&theme=chartreuse-dark&show_icons=true" />
+</a> -->
+
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ectweitmann&theme=chartreuse-dark&show_icons=true)](https://github.com/ectweitmann/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ectweitmann&theme=chartreuse-dark&layout=compact)](https://github.com/ectweitmann/github-readme-stats)
+
+<!-- **ectweitmann/ectweitmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
