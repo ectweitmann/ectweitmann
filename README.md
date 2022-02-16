@@ -17,7 +17,7 @@
 - :book:&nbsp; &nbsp; Currently Learning: [Express.js](https://frontend.turing.edu/lessons/module-3/express.html)
 - :thinking:&nbsp; &nbsp; What I want to learn next: [GSAP](https://greensock.com/gsap/)
 - :white_check_mark:&nbsp; &nbsp; Check out: this awesome [Rock, Paper, Scissors game](https://ectweitmann.github.io/rock-paper-scissors/) I made!
-- :keyboard:&nbsp; &nbsp;  Outside interests: checkout out some of my [photography](https://www.behance.net/gallery/52876745/My-AP-2D-Studio-Art-Portfolio), I have a love for photo surrealism. 
+- :camera:&nbsp; &nbsp;  Outside interests: checkout out some of my [photography](https://www.behance.net/gallery/52876745/My-AP-2D-Studio-Art-Portfolio), I have a love for photo surrealism. 
 
 ---
 
@@ -39,9 +39,9 @@
     <p>
       <a href="https://www.npmjs.com/package/mocha">Mocha </a>/
       <a href="https://www.npmjs.com/package/chai">Chai</a>, &nbsp;  
-      <a href="https://Day.js.org/">Day.js</a>, &nbsp;
-      <a href="http://numeraljs.com/">Numeral.js</a>, &nbsp;
-      <a href="https://animate.style/">Animate.css</a>, &nbsp;
+      <a href="https://www.npmjs.com/package/dayjs">Day.js</a>, &nbsp;
+      <a href="https://www.npmjs.com/package/numeral">Numeral.js</a>, &nbsp;
+      <a href="https://www.npmjs.com/package/animate.css?activeTab=versions">Animate.css</a>, &nbsp;
       <a href="https://www.npmjs.com/package/webpack">Webpack</a>, &nbsp;
       <a href="https://eslint.org/">ESLint</a>
   </p>
