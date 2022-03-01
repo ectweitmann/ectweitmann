@@ -13,7 +13,7 @@
 ---   
 - 📎&nbsp; &nbsp; I'm currently a Front End Engineering student at [Turing School Of Software and Design](https://turing.io/)
 - 🔭&nbsp; &nbsp; I graduated from [Cal. State Long Beach](https://www.csulb.edu/) with a BA in Communication Studies
-- :fire:&nbsp; &nbsp; Most Recent Project: [A movie details aggregator](http://rancid-tomatillos2110.herokuapp.com/)
+- :fire:&nbsp; &nbsp; Most Recent Project: [An aggregator for the New York Times best-selling books lists](https://book-club-ui.herokuapp.com/)
 - :book:&nbsp; &nbsp; Currently Learning: [Express.js](https://frontend.turing.edu/lessons/module-3/express.html)
 - :thinking:&nbsp; &nbsp; What I want to learn next: [GSAP](https://greensock.com/gsap/)
 - :white_check_mark:&nbsp; &nbsp; Check out: this awesome [Rock, Paper, Scissors game](https://ectweitmann.github.io/rock-paper-scissors/) I made!
