@@ -13,8 +13,8 @@
 ---   
 - 📎&nbsp; &nbsp; I'm currently a Front End Engineering student at [Turing School Of Software and Design](https://turing.io/)
 - 🔭&nbsp; &nbsp; I graduated from [Cal. State Long Beach](https://www.csulb.edu/) with a BA in Communication Studies
-- :fire:&nbsp; &nbsp; Most Recent Project: [Referle](https://referle-2110.herokuapp.com/home), a companion app for the popular word game Wordle
-- :book:&nbsp; &nbsp; Currently Learning: [Express.js](https://frontend.turing.edu/lessons/module-3/express.html)
+- :fire:&nbsp; &nbsp; Most Recent Project: [Not Furgotten](https://not-fur-gotten-fe.herokuapp.com/)
+- :book:&nbsp; &nbsp; Currently Learning: [GraphQL](https://graphql.org/) and [Apollo](https://www.apollographql.com/)
 - :thinking:&nbsp; &nbsp; What I want to learn next: [GSAP](https://greensock.com/gsap/)
 - :white_check_mark:&nbsp; &nbsp; Check out: this awesome [Rock, Paper, Scissors game](https://ectweitmann.github.io/rock-paper-scissors/) I made!
 - :camera:&nbsp; &nbsp;  Outside interests: checkout out some of my [photography](https://www.behance.net/gallery/52876745/My-AP-2D-Studio-Art-Portfolio), I have a love for photo surrealism. 
