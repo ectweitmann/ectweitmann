@@ -11,7 +11,7 @@
 </div>
 
 ---   
-- 📎&nbsp; &nbsp; I'm currently a Front End Engineering student at [Turing School Of Software and Design](https://turing.io/)
+- 📎&nbsp; &nbsp; I'm a recent Frontend Engineering graduate from [Turing School Of Software and Design](https://turing.io/) looking for my first job!
 - 🔭&nbsp; &nbsp; I graduated from [Cal. State Long Beach](https://www.csulb.edu/) with a BA in Communication Studies
 - :fire:&nbsp; &nbsp; Most Recent Project: [Not Furgotten](https://not-fur-gotten-fe.herokuapp.com/)
 - :book:&nbsp; &nbsp; Currently Learning: [GraphQL](https://graphql.org/) and [Apollo](https://www.apollographql.com/)
